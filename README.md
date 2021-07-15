@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkRyuk12345
+- 👋 Hi, I’m @Dark_Ryuk aka @Arthex 
 - 👀 I’m interested in backend stuff
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web projects 
