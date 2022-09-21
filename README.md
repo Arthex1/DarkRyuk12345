@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact@arthex.me**
 
-- ⚡ Fun fact **I am 13, yes thats a flex.**
+- ⚡ Fun fact **I like to read and write Novels**
 
 <p align="left">
 </p>
