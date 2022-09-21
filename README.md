@@ -5,15 +5,12 @@
 
 - 🌱 I’m currently learning **GqlGen, Scss and Figma**
 
-- 👯 I’m looking to collaborate on [None](https://github.com/DarkRyuk12345/Goql)
-
 - 💬 Ask me about **Svelte, Discord.Go and FastAPI**
 
 - 📫 How to reach me **contact@arthex.me**
 
 - ⚡ Fun fact **I am 13, yes thats a flex.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
