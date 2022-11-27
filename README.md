@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthex</h1>
-<h3 align="center">An Fullstack Developer from India, Quite the Introvert.</h3>
+<h3 align="center">An Developer from India</h3>
 
 - 🔭 I’m currently working on [Goql](https://github.com/DarkRyuk12345/Goql)
 
